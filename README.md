@@ -2,7 +2,7 @@
 
 ## Brief Description
 
-The application I built as part of this hackathon is called `DVote`. DVote is a Decentralized voting system that accomodates correctness and is transparent, anonymous and secure. It can be used for voting by small, medium, and large organizations.
+The application I built as part of this hackathon is called `DVote`. DVote is a Decentralized voting system that accommodates correctness and is transparent, anonymous and secure. It can be used for voting by small, medium, and large organizations.
 
 ## Some of the advantages of DVote decentralized voting system compared to traditional centralized voting system are as follows:
 
