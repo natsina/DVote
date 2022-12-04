@@ -35,7 +35,7 @@ The application I built as part of this hackathon is called `DVote`. DVote is a 
 2. You can vote for an already created vote by clicking the vote icon on your preferred option on the votes page
 3. You can view all the votes casted and their percentages on the votes page
 
-`Link to sample vote data on Pinata: https://gateway.pinata.cloud/ipfs/QmaKs32zPXrPQPC39auLgRkGFP4tSHYWX89JgaqJwuje3r
+`Link to sample vote data on Pinata`: `https://gateway.pinata.cloud/ipfs/QmaKs32zPXrPQPC39auLgRkGFP4tSHYWX89JgaqJwuje3r`
 
 
 
