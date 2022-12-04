@@ -37,7 +37,9 @@ The application I built as part of this hackathon is called `DVote`. DVote is a 
 
 `Link to sample vote data on Pinata`: `https://gateway.pinata.cloud/ipfs/QmaKs32zPXrPQPC39auLgRkGFP4tSHYWX89JgaqJwuje3r`
 
+## DVote GIF Illustration
 
+![](https://github.com/natsina/DVote/blob/main/DVote_Vid_AdobeExpress.gif)
 
 ## Getting Started
 
