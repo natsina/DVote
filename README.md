@@ -29,6 +29,14 @@ The application I built as part of this hackathon is called `DVote`. DVote is a 
 
 `0x76ebBA2798676cEaD522Adc1174591B706B8C6F2`
 
+## Functionalities supported on DVote
+
+1. You can create a vote by hosting vote data on IPFS using Pinata
+2. You can vote for an already created vote by clicking the vote icon on your preferred option on the votes page
+3. You can view all the votes casted and their percentages on the votes page
+
+`Link to sample vote data on Pinata: https://gateway.pinata.cloud/ipfs/QmaKs32zPXrPQPC39auLgRkGFP4tSHYWX89JgaqJwuje3r
+
 
 
 ## Getting Started
