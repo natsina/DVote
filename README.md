@@ -8,11 +8,11 @@ Some of the advantages of DVote decentralized voting system compared to traditio
 
 1. It is `Secure`
 2. Votes casted are `Immutable`
-3. It streamlines the voting process and makes it faster 
-4. It is transparent
+3. It streamlines the voting process and makes it `Faster` 
+4. It is `Transparent`
 5. You can vote anytime/anywhere (during Pandemics like COVID-19 where it’s impossible to hold elections physically
-6. Free from human errors
-7. Can be used to mitigate corruption in voting due to its immutable nature
+6. Free from `Human errors`
+7. Can be used to mitigate `Corruption` in voting due to its immutable nature
 
 
 ## Tech Stack
