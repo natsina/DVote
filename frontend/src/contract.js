@@ -1,6 +1,6 @@
 import { ethers } from "ethers";
 
-const address = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+const address = "0x76ebBA2798676cEaD522Adc1174591B706B8C6F2";
 
 const abi = [ "event MemberJoined(address indexed member, uint256 joinedAt)",
 "event VoteCreated(address indexed owner, uint256 indexed voteId, uint256 indexed createdAt, uint256 endTime)",
