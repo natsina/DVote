@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DVote/static/css/main.c2cab247.css",
+    "main.js": "/DVote/static/js/main.0f3c96ee.js",
+    "index.html": "/DVote/index.html",
+    "main.c2cab247.css.map": "/DVote/static/css/main.c2cab247.css.map",
+    "main.0f3c96ee.js.map": "/DVote/static/js/main.0f3c96ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.0f3c96ee.js"
+  ]
+}
