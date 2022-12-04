@@ -39,7 +39,7 @@ The application I built as part of this hackathon is called `DVote`. DVote is a 
 
 ## DVote GIF Illustration
 
-![](https://github.com/natsina/DVote/blob/main/DVote_Vid_AdobeExpress%20(2).gif)
+![](https://github.com/natsina/DVote/blob/main/DVote%20Vid.gif)
 
 ## Getting Started
 
